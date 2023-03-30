@@ -9,3 +9,10 @@
                 
  ![](images/login.png)
  Login page
+ ![](images/write.png)
+writing component using react quill with category functionality 
+![](images/updating.png)
+ updating and deletion of post after jwt authenticates author of post also fetching similar post in the sidebar
+ ![](images/categories.png)
+ 
+ passing categories as query
